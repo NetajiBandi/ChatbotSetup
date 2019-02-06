@@ -1,6 +1,6 @@
 # ChatbotSetup
 
-Refere to the my blog @ https://medium.com/@netaji.bandi/building-a-voice-enabled-chat-bot-for-a-website-using-dialogflow-firebase-jquery-3a10a3a36e2
+Refere to the my blog @ https://medium.com/@netaji.bandi/3a10a3a36e2
 
 This repo has all the source code setup mentioned in the above blog post.
 
